@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Bienvenidos a mi pagina web personal
+
+En esta pagina se mostrara el contenido personal sobre mis gustos, conocimientos de programacion,  
 
 You can use the [editor on GitHub](https://github.com/Ricardo499/Mi_Informacion_personal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
